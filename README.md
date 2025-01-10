@@ -24,7 +24,7 @@ From handling biographic details to managing emergency contacts and checklists, 
 
 ## 📂 Entity-Relationship Diagram (ERD)  
 A well-structured ERD connects the database tables for optimized data integrity and scalability.  
-![ERD Diagram](ERD.png)  
+![ERD Diagram](ERD.jpg)  
 
 ---
 
